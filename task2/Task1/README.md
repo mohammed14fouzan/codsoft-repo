@@ -1,2 +1,0 @@
-# codsoft-repo
-webdevelopment internship 
